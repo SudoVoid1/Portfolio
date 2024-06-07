@@ -1,0 +1,6 @@
+train: data/images/train
+val: data/images/val
+test: data/images/test
+
+nc: 3 # number of classes
+names: ["ball", "net", "player"]
